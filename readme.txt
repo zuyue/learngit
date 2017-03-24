@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 Git can merge branchs.
 dev add part of works. test Git Extensions.
+changes occured on master.
